@@ -16,3 +16,7 @@
 * Audience: People who were children in the late 70s - early 80s, 
 
 * Intense, Thrilling, Dark, Retro, Nostalgic, 
+
+# Visual Design
+
+* Collage from Art Direction

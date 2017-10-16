@@ -1,2 +1,4 @@
 //My Scripts
-console.log('TEst');
+console.log('Test');
+
+$('video').mediaelementplayer();

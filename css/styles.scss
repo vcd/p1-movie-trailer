@@ -1,5 +1,4 @@
 /*StyleSheet*/
-
 @import'normalize';
 @import'mediaelementplayer';
 
@@ -17,4 +16,11 @@ h1{
 p{
     color:lightgray;
     font-family: 'Roboto', sans-serif;
+}
+/* Layout */
+.page{
+    display: flex;
+}
+header, section, main, article, aside, footer{
+    flex:1;
 }

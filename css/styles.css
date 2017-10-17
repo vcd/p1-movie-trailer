@@ -1119,18 +1119,27 @@ Reference: http://blog.rrwd.nl/2015/04/04/the-screen-reader-text-class-why-and-h
 
 /* End: Error */
 /* Google fonts*/
-/* line 9, /Users/valerielandguth/Desktop/p1-movie-trailer/css/styles.scss */
+/* line 8, /Users/valerielandguth/Desktop/p1-movie-trailer/css/styles.scss */
 body {
   background-color: darkblue; }
 
-/* line 13, /Users/valerielandguth/Desktop/p1-movie-trailer/css/styles.scss */
+/* line 12, /Users/valerielandguth/Desktop/p1-movie-trailer/css/styles.scss */
 h1 {
   color: white;
   font-family: 'Titillium Web', sans-serif; }
 
-/* line 17, /Users/valerielandguth/Desktop/p1-movie-trailer/css/styles.scss */
+/* line 16, /Users/valerielandguth/Desktop/p1-movie-trailer/css/styles.scss */
 p {
   color: lightgray;
   font-family: 'Roboto', sans-serif; }
+
+/* Layout */
+/* line 21, /Users/valerielandguth/Desktop/p1-movie-trailer/css/styles.scss */
+.page {
+  display: flex; }
+
+/* line 24, /Users/valerielandguth/Desktop/p1-movie-trailer/css/styles.scss */
+header, section, main, article, aside, footer {
+  flex: 1; }
 
 /*# sourceMappingURL=styles.css.map */

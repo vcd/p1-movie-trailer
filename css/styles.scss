@@ -1,5 +1,10 @@
 /*StyleSheet*/
 
+@import'normalize';
+@import'mediaelementplayer';
+
+/* Google fonts*/
+@import url('https://fonts.googleapis.com/css?family=Roboto|Titillium+Web');
 
 body {
     background-color: darkblue;    
@@ -7,4 +12,9 @@ body {
 
 h1{
     color:white;
+    font-family: 'Titillium Web', sans-serif;
+}
+p{
+    color:lightgray;
+    font-family: 'Roboto', sans-serif;
 }

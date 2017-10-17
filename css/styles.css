@@ -1,6 +1,10 @@
 /*StyleSheet*/
-/* line 4, /Users/vvanderweyst/Desktop/p1-movie-trailer/css/styles.scss */
+/* line 4, /Users/valerielandguth/Desktop/p1-movie-trailer/css/styles.scss */
 body {
-  background-color: orchid; }
+  background-color: darkblue; }
+
+/* line 8, /Users/valerielandguth/Desktop/p1-movie-trailer/css/styles.scss */
+h1 {
+  color: white; }
 
 /*# sourceMappingURL=styles.css.map */

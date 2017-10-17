@@ -13,9 +13,11 @@
 
 ## Art Direction 
 
-* Audience: People who were children in the late 70s - early 80s, 
+* Audience: People who were children in the late 70s - early 80s, Horror/Thriller Movie Fans,
 
-* Intense, Thrilling, Dark, Retro, Nostalgic, 
+* How should they feel: Intense, Thrilling, Dark, Retro, Nostalgic
+
+* Keywords: Aliens, SciFi, Trains, Evacuation, Film,
 
 # Visual Design
 

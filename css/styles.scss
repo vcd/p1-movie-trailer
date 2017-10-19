@@ -5,10 +5,6 @@
 /* Google fonts*/
 @import url('https://fonts.googleapis.com/css?family=Roboto|Titillium+Web');
 
-body {
-    background-color: darkblue;    
-}
-
 h1{
     color:white;
     font-family: 'Titillium Web', sans-serif;
@@ -20,6 +16,7 @@ p{
 /* Layout */
 .page{
     display: flex;
+     background-color: darkblue; 
 }
 header, section, main, article, aside, footer{
     flex:1;

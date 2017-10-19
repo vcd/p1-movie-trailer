@@ -1,7 +1,3 @@
-/*StyleSheet*/
-@import'normalize';
-@import'mediaelementplayer';
-
 /* Google fonts*/
 @import url('https://fonts.googleapis.com/css?family=Roboto|Titillium+Web');
 
@@ -16,8 +12,9 @@ p{
 /* Layout */
 .page{
     display: flex;
-     background-color: darkblue; 
+     background-color: #ff9eff; 
 }
+
 header, section, main, article, aside, footer{
     flex:1;
 }

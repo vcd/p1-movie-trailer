@@ -14,16 +14,17 @@ p{
 .page{
     margin:0 auto;
     max-width:80%;
-    width:80%
+    width:80%;
     display: flex;
-     background-color: darkblue; 
-}
-
-section{
-    max-width: 100%;
-    width:100%;
+    background: #000 url(/img/bg.jpg) no-repeat center;
+    background-size: cover;
 }
 
 header, section, main, article, aside, footer{
     flex:1;
+}
+
+video{
+    max-width: 100%;
+    width:100%;
 }

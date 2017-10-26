@@ -35,8 +35,12 @@ li:nth-child(2), blockquote{
 /* Layout */
 .page{
     margin: 0 auto;
-    background: #0c161c url(/img/bg.jpg) fixed no-repeat center;
+    background-color: #0c161c;
+    background-image: url('/img/bg.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 header, section, main, article, aside, footer{

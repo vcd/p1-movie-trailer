@@ -12,23 +12,29 @@
        content: "Mobile Size";
   }
     
+    
 }
 
-/* Tablet:  768px = 160em */
-@media screen and (min-width: 48em)  {
+/* Tablet:  768px = 60em */
+@media screen and (min-width: 50em)  {
     
-    
+   .page {
+        margin: 0 auto;
+        max-width: 90%;
+        width: 90%;
+    }  
+    aside{
+          order:0;
+      }
     // RWD Grid
-    main {
+    main{
         padding: 2em;
         display: flex;
         justify-content: space-between;
-    }
-    
-    main article,
-    main aside {
-        width: 50%;
-    }
+    } 
+    p, blockquote{
+    font-size: 14px;
+}
     
   /* Diagnostic Styling. Delete When Done. */
   body:before {
@@ -44,10 +50,18 @@
     // Fixed width. Center Aligned. 
     .page {
         margin: 0 auto;
-        max-width: 75%;
-        width: 75%;
+        max-width: 80%;
+        width: 80%;
     } 
-    
+      p, blockquote{
+    font-size: 1em;
+}
+ .cast, #joel, #elle, #riley, #zach, #kyle, #ron, #gabriel ,#ryan {   
+    height: 125px;
+    width: 125px;  
+  
+}
+
     
   /* Diagnostic Styling. Delete When Done. */
   body:before {

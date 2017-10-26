@@ -5,14 +5,6 @@
    .page {
        display: block;
     }
-    
-  /* Diagnostic Styling. Delete When Done. */
-  body:before {
-       background: yellow;
-       content: "Mobile Size";
-  }
-    
-    
 }
 
 /* Tablet:  768px = 60em */
@@ -35,13 +27,6 @@
     p, blockquote{
     font-size: 14px;
 }
-    
-  /* Diagnostic Styling. Delete When Done. */
-  body:before {
-       background: yellow;
-       content: "Tablet Size";
-  }
-
 }
 
 /* Desktop: 1280px = 80em */
@@ -58,15 +43,7 @@
 }
  .cast, #joel, #elle, #riley, #zach, #kyle, #ron, #gabriel ,#ryan {   
     height: 125px;
-    width: 125px;  
-  
+    width: 125px;   
 }
-
-    
-  /* Diagnostic Styling. Delete When Done. */
-  body:before {
-       background: yellow;
-       content: "Desktop Size";
-  }
 
 }
